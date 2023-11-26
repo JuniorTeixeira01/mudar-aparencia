@@ -1,0 +1,18 @@
+.CardInformacao{
+    width: 400px;
+    height: 100px;
+    background-color: rgb(115, 211, 211);
+    border: 5px solid rgb(29, 28, 28);
+    margin: 20px  auto 0 auto;
+    text-align: center;
+    border-radius: 10px;
+  }
+  .CardInformacao h3{
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .CardInformacao p{
+    font-size: 15px;
+    font-weight: 700;
+    padding-top: 20px;
+  }
